@@ -5,6 +5,7 @@ import {BsFillCloudDownloadFill} from "react-icons/bs"
 import {GrLocation} from "react-icons/gr"
 import {BsTelephone} from "react-icons/bs"
 import {HiOutlineMail} from "react-icons/hi"
+import curriculo from "./cv.pdf"
 
 
 function Contato(){
@@ -17,7 +18,7 @@ function Contato(){
                 <div className="prof">DEV FULLSTACK</div>
             
             </div>   
-            <button className="download"><BsFillCloudDownloadFill size={30}/></button>    
+            <a href={curriculo} download className="download"><BsFillCloudDownloadFill color="black" size={30}/></a>  
         </div>
         <div className="cnt">
         <div className="formacao">Contato</div>
