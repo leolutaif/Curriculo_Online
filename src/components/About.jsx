@@ -20,7 +20,7 @@ function About(){
         <div className="sobre-mim">
           Sobre Mim
         </div>
-        <div className="text-sobre">Desenvolvedor fullstack, com foto em front-end. Estou em busca de estágio!</div>
+        <div className="text-sobre">Desenvolvedor fullstack, com foco em front-end. Estou em busca de estágio!</div>
       </div>
       <div className="redes">
         <a href="https://www.linkedin.com/in/leonardolutaif/" className="iconOne"><FaLinkedinIn size={20} color="black"/></a>
