@@ -51,44 +51,45 @@ function Cv(){
                     <div className="formacao mg">
                         Habilidades
                     </div>
+                    <div className="env-habi">
                 <div className="habi">
                     <div className="skill">
-                        <AiFillHtml5 size={30}/>
+                        <AiFillHtml5 size={26}/>
                         HTML
                     </div>
                     <div className="skill lf">
-                        <DiCss3 size={30}/>
+                        <DiCss3 size={26}/>
                         CSS
                     </div>
                     <div className="skill lf">
-                        <IoLogoJavascript size={30}/>
+                        <IoLogoJavascript size={26}/>
                         JavaScript
                     </div>
                     <div className="skill lf">
-                        <DiReact size={30}/>
+                        <DiReact size={26}/>
                         REACT
                     </div>
                 </div>
                 <div className="habi">
                     <div className="skill">
-                        <DiJava size={30}/>
+                        <DiJava size={26}/>
                         JAVA
                     </div>
                     <div className="skill lf">
-                        <DiPython size={30}/>
+                        <DiPython size={26}/>
                         PYTHON
                     </div>
                     <div className="skill lf">
-                        <DiMysql size={30}/>
+                        <DiMysql size={26}/>
                         MySQL
                     </div>
                     <div className="skill lf">
-                        <DiNodejsSmall size={30}/>
+                        <DiNodejsSmall size={26}/>
                         NODE
                     </div>
                    
                 </div>
-                    
+                </div>
                 </div>
             <Navbar/>
         </div>
